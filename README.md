@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nohelia-f
-- 👀 I’m interested in visual arts, history, design and languages.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on mobile apps.
 - 📫 Text me if interested.
