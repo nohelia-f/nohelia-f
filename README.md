@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nohelia-f
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on mobile apps.
-- 📫 Text me if interested.
+- 📫 Discord: nohelia#2301
 
 <!---
 nohelia-f/nohelia-f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
