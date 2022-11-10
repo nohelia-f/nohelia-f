@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nohelia-f
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on mobile apps.
 - 📫 Discord: nohelia#2301
 
